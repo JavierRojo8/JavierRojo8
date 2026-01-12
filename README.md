@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**JavierRojo8/JavierRojo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Javier Rojo
 
-Here are some ideas to get you started:
+AI & Mathematical Engineering  
+Focus: Computer Vision, MLOps, Synthetic Data, Decision Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Synthetic data pipelines (BlenderProc, segmentation maps, YOLO labels)
+- Object detection & CV (YOLOv8, homography, ArUco)
+- MLOps (DVC, MLflow, Docker, GKE, GitHub Actions)
+- Decision models (MDPs, queueing, reinforcement learning)
+
+## Featured projects
+- 🥗 **Ratatouille** — Synthetic food plates + YOLO ingredient detection  
+- 📊 **Credit Risk XAI** — RandomForest + SHAP/LIME sanity checks  
+- ☁️ **MLOps GKE Cluster** — Full CI/CD with DVC, Docker, Kubernetes  
+- 🎲 **Parrondo Simulator** — Probabilistic paradoxes in Python
+
+## Tech stack
+Python, PyTorch, Ultralytics YOLO, OpenCV, Docker, Kubernetes, DVC, MLflow, GitHub Actions, GCP
+
+## Contact
+LinkedIn: …
