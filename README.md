@@ -1,15 +1,16 @@
-## Hi there 👋
+## Hi there, my name is Javier Rojo, welcome to my github profile 👋
 
-# Javier Rojo
+# Who am I 
+AI & Mathematical Engineering graduate at the Universidad Pontificia Comillas, in Madrid. 
+Currently cursing a Master in AI in the same university. 
+Focus: Deep Learning, Reinforcement Learning, Computer Vision, MLOps, Synthetic Data, Decision Systems
 
-AI & Mathematical Engineering  
-Focus: Computer Vision, MLOps, Synthetic Data, Decision Systems
-
-## What I work on
+## Some of my areas of expertise
 - Synthetic data pipelines (BlenderProc, segmentation maps, YOLO labels)
 - Object detection & CV (YOLOv8, homography, ArUco)
 - MLOps (DVC, MLflow, Docker, GKE, GitHub Actions)
 - Decision models (MDPs, queueing, reinforcement learning)
+- XAI techinques (SHAP, LIME, Gradient Saliency Maps for imge inputs ...)
 
 ## Featured projects
 - 🥗 **Ratatouille** — Synthetic food plates + YOLO ingredient detection  
