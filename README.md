@@ -27,4 +27,4 @@ Focus: Computer Vision, MLOps, Synthetic Data, Decision Systems
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Rojo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-rojo-llorens-bb1146298/)
-[![Email](https://img.shields.io/badge/Email-javier.rojo%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:javierrojollorens@gmail.com)
+[![Email](https://img.shields.io/badge/Email-javierrojollorens%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:javierrojollorens@gmail.com)
