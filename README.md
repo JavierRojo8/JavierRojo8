@@ -22,11 +22,9 @@ Focus: Computer Vision, MLOps, Synthetic Data, Decision Systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
 
 ## Contact
-LinkedIn: …
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Rojo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-rojo-llorens-bb1146298/)
+[![Email](https://img.shields.io/badge/Email-javier.rojo%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:javierrojollorens@gmail.com)
