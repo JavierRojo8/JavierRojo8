@@ -1,4 +1,4 @@
-## Hi there, my name is Javier Rojo, welcome to my github profile 👋
+## Hi, welcome to my github profile 👋
 
 # Who am I 
 AI & Mathematical Engineering graduate at the Universidad Pontificia Comillas, in Madrid. 
